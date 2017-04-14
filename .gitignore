@@ -1,0 +1,6 @@
+*.bad
+
+bin/
+bin/**
+.settings/
+.settings/**
